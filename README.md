@@ -31,15 +31,16 @@
             <li>Nome;</li>
             <li>E-mail;</li>
             <li>Telefone;</li> 
-            <li>Campo descrição<li>
+            <li>Campo descrição</li>
         </ul>
     </li>
     <li>Os campos do formulário deverão estar um abaixo do outro;</li>
     <li>Construir o layout utilizando as tags semânticas do HTML5;</li>
     <li>Na segunda seção, temos 4 colunas de texto e embaixo deve existir um gradiente. A cor fica a gosto.</li>
-    <li>O footer deve conter seu nome, a frase "Meu primeiro layout" e por fim SkillLab. Tudo centralizado no seguinte formato: Nome<br>
-                             Meu primeiro Layout<br>
-                                                                        SkillLab</li>
+    <li>O footer deve conter seu nome, a frase "Meu primeiro layout" e por fim SkillLab. Tudo centralizado no seguinte formato:<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nome<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meu primeiro Layout<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SkillLab</li>
     <li>Ter um background "#86858591".</li>
     </ol>
 
