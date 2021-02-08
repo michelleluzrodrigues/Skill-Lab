@@ -27,12 +27,12 @@
     <li>Criar o layout proposto no arquivo "layout-desafio.png".</li>
     <li>O logo e a imagem fixos na header serão adicionados juntos com  o layout.</li>
     <li>O formulário terá os seguintes campos:
-        <ol>
+        <ul>
             <li>Nome;</li>
             <li>E-mail;</li>
             <li>Telefone;</li> 
             <li>Campo descrição<li>
-        </ol></li>
+        </ul></li>
     <li>Os campos do formulário deverão estar um abaixo do outro;<li>
     <li>Construir o layout utilizando as tags semânticas do HTML5;<li>
     <li>Na segunda seção, temos 4 colunas de texto e embaixo deve existir um gradiente. A cor fica a gosto.</li>
