@@ -11,7 +11,8 @@
 <p>Criar um segundo formulário com os seguintes campos:</p>
 
 <ul>
-    <li>Nome;E-mail;</li>
+    <li>Nome;</li>
+    <li>E-mail;</li>
     <li>CPF;</li>
     <li>Campo de descrição.</li>
 </ul>
