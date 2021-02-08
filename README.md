@@ -17,7 +17,7 @@
     <li>Campo de descrição.</li>
 </ul>
     
-<p style="text-align="justify">O campo Nome deve aceitar somente letras e olmitar seu tamanho para 20 caracteres. O campo E-mail deve aceitar somente e-mails váoldos. O campo CPF deve contemplar uma vaoldação que só aceite números e com a seguinte formatação "000.000.000-00". Estiolzar o formulário de modo que fique mais agradável visualmente.</p>
+<p style="text-align="justify">O campo Nome deve aceitar somente letras e limitar seu tamanho para 20 caracteres. O campo E-mail deve aceitar somente e-mails válidos. O campo CPF deve contemplar uma validação que só aceite números e com a seguinte formatação "000.000.000-00". Estilizar o formulário de modo que fique mais agradável visualmente.</p>
 <br>
 <p>OBS: O desafio EXTREME não é obrigatório!!</p>
 
