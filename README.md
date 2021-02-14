@@ -46,3 +46,11 @@
 
 <h2 style="text-align:center"><strong>Desafio EXTREME =):</strong></h2> 
 <p>Criar um elemento que ande pela tela infinitamente.</p>
+
+<hr>
+<h1 style="text-align:center"><strong>Desafio Aula 4</strong></h1>
+
+<ol>
+    <li>Realizar a refatoração do code. (Dividir os arquivos e criar uma estrutura de pastas, como vimos na aula)</li>
+    <li>Acrescentar tags semânticas.</li>
+</ol> 
