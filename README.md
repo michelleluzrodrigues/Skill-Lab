@@ -57,4 +57,4 @@
 
  <hr>
 <h1 style="text-align:center"><strong>Desafio Aula 5</strong></h1>
-<p style="text-align="justify">Nesta atividade preciso que encontrem o problema da  @media em seus diferentes dispositivos. Segue os arquivos.</p>
+<p style="text-align="justify">Nesta atividade preciso que encontrem o problema da  @media em seus diferentes dispositivos. </p>
