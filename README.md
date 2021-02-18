@@ -54,3 +54,7 @@
     <li>Realizar a refatoração do code. (Dividir os arquivos e criar uma estrutura de pastas, como vimos na aula)</li>
     <li>Acrescentar tags semânticas.</li>
 </ol> 
+
+ <hr>
+<h1 style="text-align:center"><strong>Desafio Aula 5</strong></h1>
+<p style="text-align="justify">Nesta atividade preciso que encontrem o problema da  @media em seus diferentes dispositivos. Segue os arquivos.</p>

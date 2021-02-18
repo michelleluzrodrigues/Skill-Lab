@@ -174,3 +174,20 @@ label {
   }
 }
 
+.loader {
+  width: 100px;
+  height: 100px;
+  border: 15px solid #eee;
+  border-bottom-color: #da251c;
+  border-radius: 50%;
+  animation: rotate 1.5s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
