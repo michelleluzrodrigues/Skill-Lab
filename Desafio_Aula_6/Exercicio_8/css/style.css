@@ -1,0 +1,18 @@
+label {
+    display: block;
+    float: left;
+}
+
+label, input {
+    width: 68px;
+    margin: 4px 8px;
+}
+
+input {
+    width: 150px;
+}
+
+button{
+    margin-top: 5px;
+   margin-left: 130px; 
+}
