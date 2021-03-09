@@ -61,9 +61,9 @@
 <p style="text-align="justify">Nesta atividade preciso que encontrem o problema da  @media em seus diferentes dispositivos. </p>
 
 <hr>
-<h1 style="text-align:center"><strong>Desafio Aula 4</strong></h1>
+<h1 style="text-align:center"><strong>Desafio Aula 6</strong></h1>
 
-<h1>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</h1>
+<p>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</p>
 <br>
 <ol>
     <li>Faça uma mensagem de 'Olá Mundo'.</li>
