@@ -97,10 +97,7 @@
         </ol>
         <br>
             Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2),<br>
-           O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
-        
-    </li>
-
+           O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).</li>
 </ol>
   
 <p> OBS: Lembe-se de utilizar todo o conhecimento de CSS3 e HTML5 adquirido até o momento</p>
