@@ -93,9 +93,12 @@
         <ol>
             <li>x - Campo/Input do tipo text. (id=soma1, id=soma2)</li>
             <li>x - Botão (id=btn-soma).</li>
-            <li> x - Campo (id=resultado-soma)<li><br>
-            Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2),O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão                 (id=btn-soma).
+            <li> x - Campo (id=resultado-soma)</li>
         </ol>
+        <br>
+            Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2),<br>
+           O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).
+        
     </li>
 
 </ol>
