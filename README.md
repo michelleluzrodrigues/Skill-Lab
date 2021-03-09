@@ -48,9 +48,7 @@
 <p>Criar um elemento que ande pela tela infinitamente.</p>
 
 <hr>
-<h1 style="text-align:center"><strong>Desafio Aula 6</strong></h1>
-<h1>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</h1>
-<br>
+<h1 style="text-align:center"><strong>Desafio Aula 4</strong></h1>
 <ol>
     <li>Realizar a refatoração do code. (Dividir os arquivos e criar uma estrutura de pastas, como vimos na aula)</li>
     <li>Acrescentar tags semânticas.</li>
@@ -64,7 +62,7 @@
 <h1 style="text-align:center"><strong>Desafio Aula 6</strong></h1>
 
 <p>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</p>
-<br>
+
 <ol>
     <li>Faça uma mensagem de 'Olá Mundo'.</li>
     <li>Faça essa mensagem em um arquivo javascript externo e chame ela.</li>
