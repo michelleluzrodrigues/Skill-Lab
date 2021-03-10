@@ -1,14 +1,10 @@
-function mascara(i){
-   
-    var v = i.value;
+var cpf = document.getElementById('#cpf');
+
+
+window.oninput = function () {
+    document.querySelector('#cpf1').value = document.querySelector('#cpf').value.replace(/[^0-9]/g, "").replace(/^([\d]{3})([\d]{3})?([\d]{3})?([\d]{2})?/, "$1.$2.$3-$4");
+
+        cpf1.value = value;
     
-    if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
-       i.value = v.substring(0, v.length-1);
-       return;
-    }
-    
-    i.setAttribute("maxlength", "14");
-    if (v.length == 3 || v.length == 7) i.value += ".";
-    if (v.length == 11) i.value += "-";
- 
- }
+
+}
