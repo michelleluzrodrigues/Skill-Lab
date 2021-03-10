@@ -48,9 +48,7 @@
 <p>Criar um elemento que ande pela tela infinitamente.</p>
 
 <hr>
-<h1 style="text-align:center"><strong>Desafio Aula 6</strong></h1>
-<h1>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</h1>
-<br>
+<h1 style="text-align:center"><strong>Desafio Aula 4</strong></h1>
 <ol>
     <li>Realizar a refatoração do code. (Dividir os arquivos e criar uma estrutura de pastas, como vimos na aula)</li>
     <li>Acrescentar tags semânticas.</li>
@@ -61,10 +59,10 @@
 <p style="text-align="justify">Nesta atividade preciso que encontrem o problema da  @media em seus diferentes dispositivos. </p>
 
 <hr>
-<h1 style="text-align:center"><strong>Desafio Aula 4</strong></h1>
+<h1 style="text-align:center"><strong>Desafio Aula 6</strong></h1>
 
-<h1>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</h1>
-<br>
+<p>Lista de exercícios para fixação de conteúdo - (JavaScript/HTML5/CSS3):</p>
+
 <ol>
     <li>Faça uma mensagem de 'Olá Mundo'.</li>
     <li>Faça essa mensagem em um arquivo javascript externo e chame ela.</li>
@@ -88,16 +86,18 @@
     <li> No seu HTML exiba a imagem de uma lampada, ao clicar em cima da lampada, troque o src dela para a lampada que está acessa.</li>
     <li>Agora que já sabe utilizar o evento 'click', aprenda a usar o 'mouseover', ao passar o mouse em cima da 'lampada.jpg' altere ela para 'lampada-on.jpg'</li>
     <li> Faça 2 campos no HTML chamados: 'Nome', 'Sobrenome' e um botão 'Saudação'; ao clicar no botão exibir um alert: 'Olá {NOME} {SOBRENOME}'</li>
+    <li>Crie um campo texto parar preencher um CPF <input maxlength="11" id="cpf" />, e exiba ao lado com pontuação conforme preencher</li>
     <li>Crie um campo texto parar preencher um CPF <input maxlength="11" id="cpf" />, e exiba ao lado com pontuação conforme preencher(10) Preencha um CPF com pontuação <input maxlength="14" id="cpfPoint" /> e no campo ao lado exiba sem pontuação.</li>
     <li>No HTML Crie:
     <br>
         <ol>
             <li>x - Campo/Input do tipo text. (id=soma1, id=soma2)</li>
-            <li>x - Botão (id=btn-soma)1.</li>
-            <li> x - Campo (id=resultado-soma)Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2),O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).</li>
+            <li>x - Botão (id=btn-soma).</li>
+            <li> x - Campo (id=resultado-soma)</li>
         </ol>
-    </li>
-
+        <br>
+            Caso esteja preenchido um valor númerico nos dois campos(id=soma1, id=soma2),<br>
+           O resultado da soma devera aparecer no campo (id=resultado-soma) ao clicar no botão (id=btn-soma).</li>
 </ol>
   
 <p> OBS: Lembe-se de utilizar todo o conhecimento de CSS3 e HTML5 adquirido até o momento</p>
