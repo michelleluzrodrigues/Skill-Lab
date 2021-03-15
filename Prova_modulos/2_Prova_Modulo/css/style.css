@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F9F9F9;
+}
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p, li {
+    color: red;
+    font-size: 14px;
+}
+
+header, .navbar {
+    background-color: rgba(29, 32, 33, 0.58);
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 90px;
+}
+
+.navbar-brand {
+    padding: 0;
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.navbar-nav a:hover {
+    color: rgb(199, 194, 194);
+}
+
+.nav-expand-lg .nav-bar-nav .nav-link {
+    padding: 1rem .8rem;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+#mainSlider .carousel-inner, #mainSlider .carousel-item {
+    height: 100vh;
+}
+
+#mainSlider .carousel-caption {
+    top: 30%;
+}
+
+#mainSlider .carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#mainSlider .carousel-caption p {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: blue;
+}
+
+.carousel-indicators .active {
+    background-color: rgb(12, 203, 255);
+}
+
+.main-title {
+    color: #444;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+.main-title::after {
+    content: "";
+    border-top: 2px solid rgb(12, 203, 255);
+    width: 15%;
+    position: absolute;
+    top: 60px;
+    left: 42.5%;
+}
+
+.about-title {
+    margin-bottom: 20px;
+}
+
+.col-md-6 p {
+    font-size: 15px;
+}
+
+.container-div {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.container-btn {
+    background-color: rgb(12, 203, 255);
+    color: #FFF;
+    text-transform: uppercase;
+    width: 300px;
+    height: 60px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 3px solid transparent;
+    transition: 0.5s;
+}
+
+.container-btn:hover {
+    text-decoration: none;
+    color: rgba(12, 203, 255, 0.58);
+    background-color: transparent;
+    border-color: rgb(12, 203, 255);
+}
+
+.col-md-6 img {
+    border-radius: 50%;
+}
+
+.information {
+    background-color: rgb(12, 203, 255);
+    margin: 50px 0 50px 0;
+    padding: 50px 25px;
+}
+
+#information-list {
+    list-style: none;
+}
+
+#information-list li {
+    line-height: 30px;
+}
+
+#information-list i {
+    color: white;
+}
+
+#contact address {
+    color: #143f52;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-style: normal;
+    text-align: center;
+    font-weight: bold;
+}
+
+.maps {
+    width: 100%;
+    height: 450px;
+    margin-top: 15px;
+}
+
+.maps iframe {
+    width: 100%;
+}
+
+#formulario{
+    display:  block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    font-size: 18px;
+    font-family: sans-serif;
+    border: none;
+}
+.rodape {
+    height: 80px;
+   
+    font-size: 14px;
+    color: white;
+    background-color: #6b6c68;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    line-height: 80px;
+}
