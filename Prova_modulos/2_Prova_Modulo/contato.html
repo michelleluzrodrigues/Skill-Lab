@@ -8,18 +8,93 @@
     <!--Bootstrap-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <script src="https://use.fontawesome.com/e1a59720d6.js"></script>
-    <title>Document</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+        integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Contato</title>
 </head>
 
 <body>
-    <div class="container">
+    <header>
+        <div class="container" id="nav-container">
+            <nav class="navbar  navbar-expand-md navbar-dark bg-transparent">
+                <a href="#" class="navbar-brand">
+                    <img id="logo" src="img/logo.png" alt="Adote um amigo">Adote um amigo
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-links"
+                    aria-controls="navbar-links" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar-links">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link" id="home-menu" href=".\index.html">Home</a>
+                        <a class="nav-item nav-link" id="home-menu" href="#">Sobre o Projeto</a>
+                        <a class="nav-item nav-link" id="home-menu" href=".\adota.html">Adotar</a>
+                        <a class="nav-item nav-link" id="home-menu" href=".\contato.html">Contato</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container2">
         <div class="row">
             <div class="col-6">
-                <h1>Contato</h1>
+                <div class="card">
+                    <div class="card-body">
+                        <form id="form-contato">
+                            <div class="form-group">
+                                <label for="nome">Nome:</label>
+                                <input class="form-control" type="text" name="nome" id="nome"
+                                    placeholder="Digite seu nome">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="number">Telefone:</label>
+                                <input class="form-control" type="text" name="telefone" id="telefone"
+                                    placeholder="Digite seu telefone">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">E-mail</label>
+                                <input class="form-control" type="text" name="" id="email"
+                                    placeholder="Digite seu e-mail">
+                            </div>
+                            <div class="form-group">
+                                <label for="mensagem">Mensagem:</label>
+                                <textarea class="form-control" name="mensagem" id="mensagem"
+                                    placeholder="Digite sua mensagem mensagem..." cols="30" rows="10"></textarea>
+                            </div>
+                            <div class="form-group text-center">
+                                <button type="submit" class="btn btn-primary">Enviar</button>
+                            </div>
+                            <div class="alert alert-danger d-none">
+                                Prencha o campo <span id="campo-erro"> </span>!
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="card">
+                    <img class="card-img" src="img/img2.jpeg" alt="Cachorro brincando">
+                </div>
+
             </div>
         </div>
     </div>
+
+
+    <div class="redesSociais">
+        <h1>Siga-nos nas redes sociais</h1>
+        <ul class="ul-icons">
+            <li><i class="fab fa-instagram"></i></li>
+            <li><i class="fab fa-facebook"></i></li>
+            <li><i class="fab fa-whatsapp"></i></li>
+        </ul>
+    </div>
+    <footer class="rodape">
+        <p>Copyright &copy;2021 - by Michelle Luz Rodrigues</p>
+    </footer>
     <!--Scripts-->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -33,8 +108,6 @@
     <script src="js/script.js"></script>
 
 
-    <!-- Parallax-->
-    <script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
 </body>
 
 </html>
