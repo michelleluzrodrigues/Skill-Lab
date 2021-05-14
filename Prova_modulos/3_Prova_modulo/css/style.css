@@ -1,0 +1,22 @@
+form{
+  margin: 70px 100px 90px 100px;
+  
+}
+
+.navbar {
+  height: 100px;
+}
+
+.navbar form {
+  margin-left:2px;
+}
+
+.rodape {
+  height: 80px;
+  font-size: 14px;
+  color: white;
+  background-color: #6B6C7F;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  line-height: 80px;
+}
